@@ -1,0 +1,56 @@
+@import "../../../styles/variables.scss";
+
+.checkbox-filter {
+	width: 100%;
+	color: $primary-color;
+	background: #FFFFFF;
+	box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+	border-radius: 5px;
+	@media (max-width: 767px) {
+		box-shadow: none;
+	}
+
+	.checkbox-filter__title {
+		margin: 0 auto 20px;
+		width: calc(100% - 40px);
+	}
+
+
+	.checkbox-filter__filters {}
+}
+
+.content {
+	margin: 0 auto;
+	padding: 20px 0 25px;
+	@media (max-width: 767px) {
+		padding: 0;
+	}
+}
+
+.title {
+	font-size: $title-size;
+	text-transform: uppercase;
+	line-height: 12px;
+	letter-spacing: 0.5px;
+	
+}
+
+.filters {
+	display: flex;
+	flex-direction: column;
+	font-size: $filter-size;
+	font-weight: 400;
+	
+	.filters__item {
+		margin-right: 10px;
+		
+	}
+
+	label{
+		padding: 10px 20px;
+		display: flex;
+		&:hover{
+			background-color: $hover-color;
+		}
+	}
+}

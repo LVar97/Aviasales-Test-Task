@@ -1,0 +1,22 @@
+@import "../../../styles/variables.scss";
+
+.radio-filter {
+	width: 100%;
+	color: $primary-color;
+	background: #FFFFFF;
+	box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+	border-radius: 5px;
+	margin-top: 20px;
+	@media (max-width: 767px) {
+		box-shadow: none;
+		margin-bottom: 20px;
+	}
+
+	.radio-filter__title {
+		margin: 0 auto 20px;
+		width: calc(100% - 40px);
+	}
+
+
+	.radio-filter__filters {}
+}
