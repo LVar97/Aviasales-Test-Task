@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Aviasales-Test-Task/static/css/main.937fd6e1.css",
+    "main.js": "/Aviasales-Test-Task/static/js/main.6b52a9e3.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Aviasales-Test-Task/static/js/787.28cb0dcd.chunk.js",
+    "static/media/OpenSans-SemiBold.woff": "/Aviasales-Test-Task/static/media/OpenSans-SemiBold.1232ba75e12556959958.woff",
+    "static/media/OpenSans-Regular.woff": "/Aviasales-Test-Task/static/media/OpenSans-Regular.74fbb1368a3029d9e39a.woff",
+    "static/media/Logo.png": "/Aviasales-Test-Task/static/media/Logo.da2e0afe243a8743f504.png",
+    "static/media/filter (1).svg": "/Aviasales-Test-Task/static/media/filter (1).83041fadc24e3e7938dd.svg",
+    "index.html": "/Aviasales-Test-Task/index.html",
+    "main.937fd6e1.css.map": "/Aviasales-Test-Task/static/css/main.937fd6e1.css.map",
+    "main.6b52a9e3.js.map": "/Aviasales-Test-Task/static/js/main.6b52a9e3.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Aviasales-Test-Task/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.937fd6e1.css",
+    "static/js/main.6b52a9e3.js"
+  ]
+}
